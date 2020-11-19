@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_navigation"
+    app:startDestination="@id/listDogFragment">
+
+    <fragment
+        android:id="@+id/listDogFragment"
+        android:name="com.example.dogapputil.view.ListDogFragment"
+        android:label="list dog Breed"
+        tools:layout="@layout/fragment_list_dog" />
+    <fragment
+        android:id="@+id/listImageSearch"
+        android:name="com.example.dogapputil.view.ListImageSearch"
+        android:label="List Image search"
+        tools:layout="@layout/fragment_list_image_search" />
+</navigation>

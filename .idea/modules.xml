@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogAppUtil.iml" filepath="$PROJECT_DIR$/.idea/modules/DogAppUtil.iml" group="DogAppUtil" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="DogAppUtil/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsvdogapplibrary/jsvdogapplibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/jsvdogapplibrary/jsvdogapplibrary.iml" group="DogAppUtil/jsvdogapplibrary" />
+    </modules>
+  </component>
+</project>
