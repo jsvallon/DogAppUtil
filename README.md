@@ -9,7 +9,7 @@ For right now contain the implementation of two endpoints.
 
 ->On the side menu, the user can choose to see the image of a dog from an API endpoint.
 
-# Technoligie uses
+# Technology use
 ->MVVM architecture, Singleton
 ->Retrofit, Jetpack libraries such as Navigation, Recycleview
 
