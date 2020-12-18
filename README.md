@@ -1,17 +1,17 @@
-# Project : DogAppUtil
+# Project: DogAppUtil
 
-Version Java of start for a mini sdk for thie dogs app : https://docs.thedogapi.com
-For right now contain the implementation of two endpoint.
+Version Java of start for a mini SDK for the dogs' app: https://docs.thedogapi.com
+For right now contain the implementation of two endpoints.
 
 # User Stories
 
-->When the user launch the app se a list of dog with out image.
+->When the user launches the app see a list of dogs without an image.
 
-->On the side menu the user can choose to see the image of a dog from an api endpoint.
+->On the side menu, the user can choose to see the image of a dog from an API endpoint.
 
 # Technoligie uses
 ->MVVM architecture, Singleton
-->Retrofit,Jetpack libraries such as Navigation, Recycleview
+->Retrofit, Jetpack libraries such as Navigation, Recycleview
 
 
 
